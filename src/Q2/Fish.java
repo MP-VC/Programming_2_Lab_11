@@ -10,7 +10,7 @@ public class Fish extends Animal implements Pet{
 
     @Override
     public void eat() {
-        System.out.println("meow meow meow");
+        System.out.println("glub glub glub");
     }
 
     @Override
