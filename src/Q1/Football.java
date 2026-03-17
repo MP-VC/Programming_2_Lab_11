@@ -1,6 +1,6 @@
 package Q1;
 
-public class Football extends Ball{
+class Football extends Ball{
     public Football(String brandName) {
         super(brandName);
     }

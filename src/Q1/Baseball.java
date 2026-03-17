@@ -1,6 +1,6 @@
 package Q1;
 
-public class Baseball extends Ball{
+class Baseball extends Ball{
     public Baseball(String brandName) {
         super(brandName);
     }

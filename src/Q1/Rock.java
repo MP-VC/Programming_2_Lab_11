@@ -1,6 +1,6 @@
 package Q1;
 
-public class Rock implements Tossable{
+class Rock implements Tossable{
     @Override
     public void toss() {
         System.out.println("feeee");
